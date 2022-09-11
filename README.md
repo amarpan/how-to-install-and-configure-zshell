@@ -32,9 +32,52 @@ You should see the following prompt asking if you'd like to set your defaut shel
 
 {{< note >}}
 
-If for any reason you need to switch back to the bash shell, use the following command and then log out and back into your session :
+If for any reason you need to switch back to the bash shell, use the following command and then log out and back into your session:
 ```
 chsh -s $(which bash)
 ```
 {{< /note >}}
+
+## Change Zsh Theme
+By default, the theme is set to `robbyrussell`, but there are over 100+ pre-bundled themes to choose from. 
+
+For example, here are just of 3 of the several unique themes to choose from:
+
+1. agnoster
+![Agnoster Theme Preview](agnoster-theme-preview.png)
+
+2. dispwoso
+![Dispwoso Theme Preview](diswoso-theme-preview.png)
+
+3. jonathan
+![Jonathan Theme Preview](jonathan-theme-preview.png)
+
+Here are the steps to change themes:
+
+1. Open the zsh configuration file
+```
+vi ~/.zshrc
+```
+2. Press `i` to enter Insert Mode
+
+![List of Bundled Zsh Theme Names](bundled-zsh-theme-names.png)
+
+3. Change the ending of the line reading
+```
+ZSH_THEME="robbyrussell"
+```
+to
+```
+ZSH_THEME="desired-theme-name"
+```
+
+4. Press `:wq` to save and quit.
+
+5. Reload the command line:
+```
+source ~/.zshrc
+```
+
+6. Check out your new themed command line and repeat steps 1-5 with a few more themes to find the best fit.
+
 
