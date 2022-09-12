@@ -1,8 +1,8 @@
 # How to Install and Configure Z Shell in Ubuntu
 
-Z Shell (zsh) is a popular alternative to the default command line bash shell that offers several additional features like recursive path expansion, automatic spelling correction for mistyped directory names, and plugin and theme support. 
+Z Shell (zsh) is a popular alternative to the default command line bash shell that offers several advanced features like recursive path expansion, automatic spelling correction for mistyped directory names, and plug-in and theme support. 
 
-This guide will walk you through the process of installing and configuring zsh, including how to change themes as well as enable one of its most useful plugins, auto-complete suggestions. 
+This guide will walk you through the process of installing and configuring zsh, including how to change themes as well as enable one of its most useful plug-ins, auto-complete suggestions. 
 
 ## Before You Begin
 
@@ -81,8 +81,12 @@ source ~/.zshrc
 6. Check out your new themed command line and repeat steps 1-5 with a few more themes to find the best fit.
 
 ## Enable Auto-Complete Suggestions
-The auto-complete suggestions plugin is probably the single most useful tool in terms of saving time when having to type the same command over and over again. Instead of having to press `TAB` like normal auto-completion, the command line automatically suggests the rest of your command as you are typing
+The auto-complete suggestions plug-in is probably the single most useful tool in terms of saving time when having to type the same command over and over again. Instead of having to press `TAB` like normal auto-completion, the command line automatically suggests the rest of your command as you are typing
 
-For example, instead of having to type `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will instantly show a shadow of the rest of the suggested command that matches your history.
+For example, rather than typing `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will instantly show a shadow of the rest of the suggested command that matches your history.
 
-![Auto-Complete Plugin Preview](auto-complete-plugin-preview.png)
+![Auto-Complete Plug-in Preview](auto-complete-plug-in-preview.png)
+
+Follow these steps to install and enable the plug-in:
+
+1. Change directories to the oh-my-zsh plug-ins location 
