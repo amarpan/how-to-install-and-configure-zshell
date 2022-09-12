@@ -80,4 +80,9 @@ source ~/.zshrc
 
 6. Check out your new themed command line and repeat steps 1-5 with a few more themes to find the best fit.
 
+## Enable Auto-Complete Suggestions
+The auto-complete suggestions plugin is probably the single most useful tool in terms of saving time when having to type the same command over and over again. Instead of having to press `TAB` like normal auto-completion, the command line automatically suggests the rest of your command as you are typing
 
+For example, instead of having to type `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will instantly show a shadow of the rest of the suggested command that matches your history.
+
+![Auto-Complete Plugin Preview](auto-complete-plugin-preview.png)
