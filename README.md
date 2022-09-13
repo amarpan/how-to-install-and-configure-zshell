@@ -23,7 +23,7 @@ sudo apt install zsh
 
 ### 2. Install [Oh My Zsh](https://ohmyz.sh/):
 ```
-sh -c "$(curl -fsSL https://raw/github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 You should see the following prompt asking if you'd like to set your defaut shell to zsh. Press `y` to confirm. 
