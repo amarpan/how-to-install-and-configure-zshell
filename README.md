@@ -53,7 +53,7 @@ For example, here are 3 uniquely different themes to choose from:
 3. jonathan
 ![Jonathan Theme Preview](jonathan-theme-preview.png)
 
-Here are the steps to change themes:
+Follow these steps to change themes:
 
 1. Open the zsh configuration file
 ```
