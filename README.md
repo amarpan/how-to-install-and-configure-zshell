@@ -32,10 +32,11 @@ You should see the following prompt asking if you'd like to set your defaut shel
 
 {{< note >}}
 
-If for any reason you need to switch back to the bash shell, use the following command and then log out and back into your session:
+If for any reason you need to switch back to the bash shell, use the following command: 
 ```
 chsh -s $(which bash)
 ```
+Proceed to log out and back into your session for the change to take effect.
 {{< /note >}}
 
 ## Change Zsh Theme
