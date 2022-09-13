@@ -61,8 +61,6 @@ vi ~/.zshrc
 ```
 2. Press `i` to enter Insert Mode
 
-![List of Bundled Zsh Theme Names](bundled-zsh-theme-names.png)
-
 3. Change the ending of the line reading
 ```
 ZSH_THEME="robbyrussell"
@@ -71,6 +69,7 @@ to
 ```
 ZSH_THEME="desired-theme-name"
 ```
+![List of Bundled Zsh Theme Names](bundled-zsh-theme-names.png)
 
 4. Press `:wq` to save and quit.
 
