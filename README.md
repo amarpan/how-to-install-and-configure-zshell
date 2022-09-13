@@ -1,4 +1,4 @@
-# How to Install and Configure Z Shell in Ubuntu
+# How to Install and Configure Z Shell in Ubuntu Linux
 
 Z Shell (zsh) is a popular alternative to the default command line bash shell that offers several advanced features like recursive path expansion, automatic spelling correction for mistyped directory names, and plug-in and theme support. 
 
