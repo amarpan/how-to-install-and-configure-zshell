@@ -119,9 +119,7 @@ source ~/.zshrc
 ## Next Steps
 
 Try out some of the other 100+ pre-installed zsh themes to find your optimum work environment. 
-```
-WRITE ME PLEASE
-```
+
 
 ## More Information
 
