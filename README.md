@@ -83,7 +83,7 @@ source ~/.zshrc
 ## Enable Auto-Complete Suggestions
 The auto-complete suggestions plug-in is quite possibly the single most useful tool in terms of saving time when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
 
-For example, rather than typing `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will instantly show a shadow of the rest of the suggested command that matches your history.
+For example, instead of having to type `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will instantly show a shadow of the rest of the suggested command that matches your history.
 
 ![Auto-Complete Plug-in Preview](auto-complete-plug-in-preview.png)
 
