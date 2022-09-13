@@ -109,7 +109,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 
     d. Press `:wq` to save and quit. 
 
-4. Reload the command line:
+4. Reload the command line for the changes to take effect:
 ```
 source ~/.zshrc
 ```
