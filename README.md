@@ -6,7 +6,7 @@ This guide will walk you through the process of installing and configuring zsh, 
 
 ## Before You Begin
 
-Prior to moving on, please complete the following steps:
+Complete the following steps prior to moving on:
 
 ### 1. Install [Git](https://git-scm.com/):
 
