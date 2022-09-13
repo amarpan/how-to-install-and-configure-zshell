@@ -78,7 +78,7 @@ ZSH_THEME="desired-theme-name"
 source ~/.zshrc
 ```
 
-6. Check out your new themed command line and repeat steps 1-5 with a few more themes to find the best fit.
+6. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
 
 ## Enable Auto-Complete Suggestions
 The auto-complete suggestions plug-in is probably the single most useful tool in terms of saving time when having to type the same command over and over again. Instead of having to press `TAB` like normal auto-completion, the command line automatically suggests the rest of your command as you are typing
