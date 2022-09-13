@@ -116,4 +116,13 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 source ~/.zshrc
 ```
 
-5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions for you. Press the right arrow key to accept a suggestion.
+5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions. Press the right arrow key to accept a suggestion.
+
+## Next Steps
+
+Try out some of the other 100+ pre-installed zsh themes to find your optimum work environment. For a list of all their names, go here:
+```
+WRITE ME PLEASE
+```
+
+
