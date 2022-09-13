@@ -89,4 +89,31 @@ For example, rather than typing `git push origin main` every single time you wis
 
 Follow these steps to install and enable the plug-in:
 
-1. Change directories to the oh-my-zsh plug-ins location 
+1. Change directories to the oh-my-zsh plug-ins location:
+```
+cd ~/.oh-my-zsh/plugins/
+```
+
+2. Clone the autosuggestions plugin packages:
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
+3. Edit the zsh configuration file:
+
+    a. `vi ~/.zshrc`
+
+    b. Press `i` to enter Insert Mode
+
+    c. Update the line beginning with `plugins=()` to:
+    ```
+    plugins=(git zsh-autosuggestions)
+    ```
+
+    d. Press `:wq` to save and quit. 
+
+4. Reload the command line:
+```
+source ~/.zshrc
+```
+
+5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions for you. Press the right arrow key to accept a suggestion.
