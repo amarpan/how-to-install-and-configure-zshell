@@ -40,7 +40,7 @@ Proceed to log out and back into your session for the change to take effect.
 {{< /note >}}
 
 ## Change Zsh Theme
-By default, the theme is set to `robbyrussell`, but there are over 100+ pre-bundled themes to choose from. 
+By default, the theme is set to `robbyrussell`. However, this is rather plain and there are over 100+ pre-bundled themes with a wide assortment of colors and styles to choose from. 
 
 For example, here are just of 3 of the several unique themes to choose from:
 
