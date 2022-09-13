@@ -37,6 +37,9 @@ If for any reason you need to switch back to the bash shell, use the following c
 chsh -s $(which bash)
 ```
 Proceed to log out and back into your session for the change to take effect.
+
+Run `echo $SHELL` to confirm the output is `/bin/bash`
+
 {{< /note >}}
 
 ## Change Zsh Theme
