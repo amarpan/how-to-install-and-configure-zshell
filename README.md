@@ -30,6 +30,10 @@ You should see the following prompt asking if you'd like to change your defaut s
 
 ![Oh My Shell Configuration Prompt](oh-my-zsh-config-prompt.png)
 
+Take a look at your command line and you'll notice the difference right away. 
+
+
+
 {{< note >}}
 
 If for any reason you need to switch back to the bash shell, use the following command: 
