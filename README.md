@@ -57,8 +57,8 @@ For example, here are 3 uniquely different themes to choose from:
 1. agnoster
 ![Agnoster Theme Preview](agnoster-theme-preview.png)
 
-2. dispwoso
-![Dispwoso Theme Preview](diswoso-theme-preview.png)
+2. jispwoso
+![Jispwoso Theme Preview](diswoso-theme-preview.png)
 
 3. jonathan
 ![Jonathan Theme Preview](jonathan-theme-preview.png)
