@@ -92,7 +92,7 @@ source ~/.zshrc
 
 7. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
 
-8. To see the full list of included zsh themes, follow these steps:
+8. To see the full list of locally available zsh themes, follow these steps:
 
     a. `cd ~/.oh-my-zsh/themes`
     b. `ls`
