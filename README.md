@@ -54,14 +54,16 @@ By default, the theme is set to `robbyrussell`. However, this is rather plain an
 
 For example, here are 3 uniquely different themes to choose from:
 
-1. agnoster
+1. jonathan
+![Jonathan Theme Preview](jonathan-theme-preview.png)
+
+2. agnoster
 ![Agnoster Theme Preview](agnoster-theme-preview.png)
 
-2. jispwoso
+3. jispwoso
 ![Jispwoso Theme Preview](jispwoso-theme-preview.png)
 
-3. jonathan
-![Jonathan Theme Preview](jonathan-theme-preview.png)
+
 
 Follow these steps to change themes:
 
