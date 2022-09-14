@@ -81,6 +81,8 @@ ZSH_THEME="desired-theme-name"
 ```
 ![List of Bundled Zsh Theme Names](bundled-zsh-theme-names.png)
 
+4. Press `ESC` to leave Insert Mode and enter command mode.
+
 4. Press `:wq` to save and quit.
 
 5. Reload the command line:
