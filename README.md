@@ -83,14 +83,14 @@ ZSH_THEME="desired-theme-name"
 
 4. Press `ESC` to leave Insert Mode and enter command mode.
 
-4. Press `:wq` to save and quit.
+5. Press `:wq` to save and quit.
 
-5. Reload the command line:
+6. Reload the command line:
 ```
 source ~/.zshrc
 ```
 
-6. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
+7. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
 
 ## Enable Auto-Complete Suggestions
 The auto-complete suggestions plug-in is quite possibly the single most useful tool in terms of saving time when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
