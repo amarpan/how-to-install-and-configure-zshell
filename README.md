@@ -6,7 +6,7 @@ This guide will walk you through the process of installing and configuring zsh, 
 
 ## Before You Begin
 
-Complete the following steps prior to moving on:
+Complete the following steps prior to getting started:
 
 ### 1. Install [Git](https://git-scm.com/):
 
@@ -105,7 +105,7 @@ For example, instead of having to type `git push origin main` every single time 
 
 Follow these steps to install and enable the plug-in:
 
-1. Chang directories to the oh-my-zsh plug-ins location:
+1. Change directories to the oh-my-zsh plug-ins location:
 ```
 cd ~/.oh-my-zsh/plugins/
 ```
