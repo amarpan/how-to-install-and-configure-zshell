@@ -95,6 +95,7 @@ source ~/.zshrc
 8. To see the full list of locally available zsh themes, follow these steps:
 
     a. `cd ~/.oh-my-zsh/themes`
+    
     b. `ls`
 
 ## Enable Auto-Complete Suggestions
@@ -124,7 +125,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
     c. Update the line beginning with `plugins=()` to
     `plugins=(git zsh-autosuggestions)`
 
-    d. Press `:wq` to save and quit. 
+    d. Press `:wq` + `ENTER` to save and quit. 
 
 4. Reload the command line for the changes to take effect:
 ```
