@@ -134,11 +134,6 @@ source ~/.zshrc
 
 5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions. Press the right arrow key to accept a suggestion.
 
-## Next Steps
-
-Try out some of the other 100+ pre-installed zsh themes to find your optimum work environment. 
-
-
 ## More Information
 
 You may wish to consult the following resources for additional information on this topic. While these are provided in the hope that they will be useful, please note that we cannot vouch for the accuracy or timeliness of externally hosted materials.
