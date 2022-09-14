@@ -64,7 +64,7 @@ For example, here are 3 uniquely different themes to choose from:
 
 
 
-Follow these steps to change themes:
+Follow these steps to change themes to `jonathan`:
 
 1. Open your zsh configuration file
 ```
@@ -78,9 +78,8 @@ ZSH_THEME="robbyrussell"
 ```
 to
 ```
-ZSH_THEME="desired-theme-name"
+ZSH_THEME="jonathan"
 ```
-![List of Included Zsh Theme Names](bundled-zsh-theme-names.png)
 
 4. Press `ESC` to leave Insert Mode and enter Command Mode.
 
