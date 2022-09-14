@@ -34,9 +34,6 @@ Take a look at your command line and you'll notice the difference right away.
 
 ![Zsh In Effect](zsh-in-effect.png)
 
-
-
-
 {{< note >}}
 
 If for any reason you need to switch back to the bash shell, use the following command: 
@@ -143,6 +140,7 @@ You may wish to consult the following resources for additional information on th
 
 - [Official Zsh Documentation](https://zsh.sourceforge.io/Doc/)
 - [Oh My Zsh Framework Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
+- [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/tree/master/themes)
 
 
 
