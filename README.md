@@ -26,7 +26,7 @@ sudo apt install zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-You should see the following prompt asking if you'd like to change your defaut shell to zsh. Type `y` to confirm. 
+You should now see the following prompt asking if you'd like to change your defaut shell to zsh. Type `y` to confirm. 
 
 ![Oh My Shell Configuration Prompt](oh-my-zsh-config-prompt.png)
 
