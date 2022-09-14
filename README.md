@@ -16,12 +16,12 @@ sudo apt install curl wget git
 
 ## Installation
 
-### 1. Install [Zsh](https://zsh.sourceforge.io/):
+1. Install [Zsh](https://zsh.sourceforge.io/):
 ```
 sudo apt install zsh
 ```
 
-### 2. Install [Oh My Zsh](https://ohmyz.sh/):
+2. Install [Oh My Zsh](https://ohmyz.sh/):
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
