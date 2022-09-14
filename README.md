@@ -57,11 +57,13 @@ For example, here are 3 uniquely different themes to choose from:
 1. jonathan
 ![Jonathan Theme Preview](jonathan-theme-preview.png)
 
+2. xiong-chiamiov
+![Xiong Chiamiov Theme Preview](xiong-chiamiov-theme-preview.png)
+
 2. agnoster
 ![Agnoster Theme Preview](agnoster-theme-preview.png)
 
-3. jispwoso
-![Jispwoso Theme Preview](jispwoso-theme-preview.png)
+
 
 
 
