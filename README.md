@@ -47,7 +47,7 @@ Run `echo $SHELL` to confirm the output is `/bin/bash`
 {{< /note >}}
 
 ## Change Zsh Theme
-By default, the theme is set to `robbyrussell`. However, this is rather plain and there are over 100+ pre-bundled themes with a wide assortment of colors and styles to choose from. 
+By default, the theme is set to `robbyrussell`. However, this is rather plain and there are over 100+ included themes with a wide assortment of colors and styles to choose from. 
 
 For example, here are 3 uniquely different themes to choose from:
 
@@ -80,7 +80,7 @@ to
 ```
 ZSH_THEME="desired-theme-name"
 ```
-![List of Bundled Zsh Theme Names](bundled-zsh-theme-names.png)
+![List of Included Zsh Theme Names](bundled-zsh-theme-names.png)
 
 4. Press `ESC` to leave Insert Mode and enter Command Mode.
 
@@ -92,6 +92,11 @@ source ~/.zshrc
 ```
 
 7. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
+
+8. To see the full list of included zsh themes, follow these steps:
+
+    a. `cd ~/.oh-my-zsh/themes`
+    b. `ls`
 
 ## Enable Auto-Complete Suggestions
 The auto-complete suggestions plug-in is quite possibly the single most useful tool in terms of saving time when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
