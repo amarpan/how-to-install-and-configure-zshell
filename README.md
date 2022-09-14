@@ -32,6 +32,9 @@ You should see the following prompt asking if you'd like to change your defaut s
 
 Take a look at your command line and you'll notice the difference right away. 
 
+![Zsh In Effect](zsh-in-effect.png)
+
+
 
 
 {{< note >}}
