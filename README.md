@@ -83,7 +83,7 @@ ZSH_THEME="jonathan"
 
 4. Press `ESC` to leave Insert Mode and enter Command Mode.
 
-5. Press `:wq` + `ENTER` to save and quit.
+5. Type `:wq` + `ENTER` to save and quit.
 
 6. Reload the command line:
 ```
