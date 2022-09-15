@@ -70,7 +70,7 @@ Follow these steps to change themes to `jonathan`:
 ```
 vi ~/.zshrc
 ```
-2. Press `i` to enter Insert Mode
+2. Press `i` to enter Insert Mode:
 
 3. Change the ending of the line reading
 ```
