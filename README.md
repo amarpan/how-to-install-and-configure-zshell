@@ -118,7 +118,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 ```
 3. Edit the zsh configuration file:
 
-    a. `vi ~/.zshrc`
+    a. Type `vi ~/.zshrc`
 
     b. Press `i` to enter Insert Mode.
 
