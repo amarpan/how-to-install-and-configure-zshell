@@ -8,7 +8,7 @@ This guide will walk you through the process of installing and configuring zsh, 
 
 Complete the following steps prior to getting started:
 
-### 1. Install [Git](https://git-scm.com/):
+1. Install [Git](https://git-scm.com/):
 
 ```
 sudo apt install curl wget git
