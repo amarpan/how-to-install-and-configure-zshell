@@ -90,7 +90,7 @@ ZSH_THEME="jonathan"
 source ~/.zshrc
 ```
 
-7. Check out your newly themed command line and repeat steps 1-5 with a few more themes to find the best fit.
+7. Check out your newly themed command line and repeat steps 1-6 with a few more themes to find the best fit.
 
 8. To see the full list of locally available zsh themes, follow these steps:
 
