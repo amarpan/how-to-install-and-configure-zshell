@@ -105,7 +105,7 @@ For example, instead of having to type `git push origin main` every single time 
 
 ![Auto-Complete Plug-in Preview](auto-complete-plug-in-preview.png)
 
-Follow these steps to install and enable the auto-complege suggestions plug-in:
+Follow these steps to install and enable the autosuggestions plug-in:
 
 1. Change directories to the oh-my-zsh plug-ins location:
 ```
