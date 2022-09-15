@@ -66,7 +66,7 @@ For example, here are 3 uniquely different themes to choose from:
 
 Follow these steps to change themes to `jonathan`:
 
-1. Open your zsh configuration file
+1. Open your zsh configuration file:
 ```
 vi ~/.zshrc
 ```
