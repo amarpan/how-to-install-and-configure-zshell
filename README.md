@@ -132,7 +132,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 source ~/.zshrc
 ```
 
-5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions. After seeing a suggestion that you'd like to approve, press the right arrow key to accept it.
+5. Try it out! Start typing a command you know to be in your shell's history and watch as zsh offers auto-complete suggestions. After seeing a suggestion that you'd like to approve, press the `Right Arrow` key to accept it.
 
 ## More Information
 
