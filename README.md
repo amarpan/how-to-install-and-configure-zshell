@@ -94,9 +94,16 @@ source ~/.zshrc
 
 8. To see the full list of locally available zsh themes, follow these steps:
 
-    a. `cd ~/.oh-my-zsh/themes`
+    a. Change directories to the zsh themes folder:
+    ```
+    cd ~/.oh-my-zsh/themes
+    ``` 
+    
 
-    b. `ls`
+    b. List the names of all the available themes:
+    ```
+    ls
+    ```
 
 ## Enable Autosuggestions
 The autosuggestions plug-in is quite possibly the single most time-saving tool when coding. Instead of having to type the same command over and over again in full, this plug-in automatically suggests the rest of your command as you are typing, without even having to press `TAB`. 
