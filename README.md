@@ -122,7 +122,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 
     b. Press `i` to enter Insert Mode
 
-    c. Update the line beginning with `plugins=()` to
+    c. Update the line beginning with `plugins=(git)` to
     `plugins=(git zsh-autosuggestions)`
 
     d. Type `:wq` + `ENTER` to save and quit. 
