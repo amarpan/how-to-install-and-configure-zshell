@@ -2,7 +2,7 @@
 
 Z Shell (zsh) is a popular alternative to the default command line bash shell due to its improved features like recursive path expansion, automatic spelling correction, and plug-in and theme support. 
 
-This guide will walk you through the process of installing and configuring zsh, including how to change themes and enable the auto-complete suggestions plug-in. 
+This guide will walk you through the process of installing and configuring zsh, including how to change themes and enable the autosuggestions plug-in. 
 
 ## Before You Begin
 
