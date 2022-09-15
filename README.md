@@ -142,7 +142,7 @@ You may wish to consult the following resources for additional information on th
 
 - [Official Zsh Documentation](https://zsh.sourceforge.io/Doc/)
 - [Oh My Zsh Framework Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
-- [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/tree/master/themes)
+- [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)
 
 
 
