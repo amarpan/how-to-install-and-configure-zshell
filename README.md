@@ -47,7 +47,7 @@ Run `echo $SHELL` to confirm the output is `/bin/bash`
 {{< /note >}}
 
 ## Change Zsh Theme
-By default, the zsh theme is set to `robbyrussell`. However, this is rather plain and there are over 100+ included themes with a wide assortment of colors and styles to choose from. 
+By default, the zsh theme is set to `robbyrussell`, the name of the founder of Oh My Zsh. However, this is rather plain and there are over 100+ included themes with a wide assortment of colors and styles to choose from. 
 
 For example, here are 3 uniquely different themes to choose from:
 
