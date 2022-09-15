@@ -120,7 +120,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 
     a. `vi ~/.zshrc`
 
-    b. Press `i` to enter Insert Mode
+    b. Press `i` to enter Insert Mode.
 
     c. Update the line beginning with `plugins=(git)` to
     `plugins=(git zsh-autosuggestions)`
