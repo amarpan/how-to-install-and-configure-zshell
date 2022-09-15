@@ -72,7 +72,7 @@ vi ~/.zshrc
 ```
 2. Press `i` to enter Insert Mode.
 
-3. Change the ending of the line reading
+3. Change the ending of the line reading:
 ```
 ZSH_THEME="robbyrussell"
 ```
