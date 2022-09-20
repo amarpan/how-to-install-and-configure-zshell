@@ -29,7 +29,7 @@
  </a> 
   
  
-![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.how-to-install-and-configure-zshell)
 
 <!-- Delete above for publication -->
    <div align="center">
