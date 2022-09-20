@@ -148,7 +148,7 @@ The autosuggestions plug-in is quite possibly the single most time-saving tool w
 
 For example, instead of having to type `git push origin main` every single time you wish to push a new commit, you can instead type `git push` and the command line will automatically show a preview of the rest of the suggested command based on your shell's history.
 
-![Auto-Complete Plug-in Preview](auto-complete-plug-in-preview.png)
+![Auto-Complete Plug-in Preview](images/auto-complete-plug-in-preview.png)
 
 Follow these steps to install and enable the autosuggestions plug-in:
 
