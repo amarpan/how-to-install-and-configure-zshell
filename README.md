@@ -72,7 +72,7 @@ Take a look at your new command line and you should notice the difference right 
 
 ![Zsh In Effect](images/zsh-in-effect.png)
 
-{{< note >}}
+Note:
 
 If for any reason you need to switch back to the bash shell, use the following command: 
 ```
@@ -82,7 +82,7 @@ Proceed to log out and back into your session for the change to take effect.
 
 Run `echo $SHELL` to confirm the output is `/bin/bash`
 
-{{< /note >}}
+
 
 ## Change Zsh Theme
 By default, the zsh theme is set to `robbyrussell`, the name of the founder of Oh My Zsh. However, this is rather plain and there are over 100+ included themes with a wider assortment of colors and styles to choose from. 
