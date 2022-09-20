@@ -70,7 +70,7 @@ You should now see the following prompt asking if you'd like to change your defa
 
 Take a look at your new command line and you should notice the difference right away. 
 
-![Zsh In Effect](zsh-in-effect.png)
+![Zsh In Effect](images/zsh-in-effect.png)
 
 {{< note >}}
 
