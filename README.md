@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Install and Configure Z Shell in Ubuntu Linux
+# How to Install and Configure Z Shell in Ubuntu
 <p id="author">
    <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
    <br>
