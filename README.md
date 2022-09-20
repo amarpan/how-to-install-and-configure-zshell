@@ -189,5 +189,9 @@ You may wish to consult the following resources for additional information on th
 - [Oh My Zsh Framework Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
 - [List of Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)
 
+<div align="center">
+   <h3>***If you found this tutorial helpful, please consider giving it a :star:</h3>
+</div>
+
 
 
