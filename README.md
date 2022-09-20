@@ -93,7 +93,7 @@ For example, here are 3 uniquely different themes to choose from:
 ![Jonathan Theme Preview](images/jonathan-theme-preview.png)
 
 2. xiong-chiamiov
-![Xiong Chiamiov Theme Preview](xiong-chiamiov-theme-preview.png)
+![Xiong Chiamiov Theme Preview](images/xiong-chiamiov-theme-preview.png)
 
 2. agnoster
 ![Agnoster Theme Preview](agnoster-theme-preview.png)
