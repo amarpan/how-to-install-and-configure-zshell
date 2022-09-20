@@ -72,7 +72,7 @@ Take a look at your new command line and you should notice the difference right 
 
 ![Zsh In Effect](images/zsh-in-effect.png)
 
-Note:
+### **Note:**
 
 If for any reason you need to switch back to the bash shell, use the following command: 
 ```
