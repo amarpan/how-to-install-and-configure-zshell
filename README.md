@@ -96,7 +96,7 @@ For example, here are 3 uniquely different themes to choose from:
 ![Xiong Chiamiov Theme Preview](images/xiong-chiamiov-theme-preview.png)
 
 2. agnoster
-![Agnoster Theme Preview](agnoster-theme-preview.png)
+![Agnoster Theme Preview](images/agnoster-theme-preview.png)
 
 
 
