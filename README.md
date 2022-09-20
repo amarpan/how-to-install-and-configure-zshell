@@ -1,4 +1,42 @@
+<div align="center">
+
 # How to Install and Configure Z Shell in Ubuntu Linux
+<p id="author">
+   <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
+   <br>
+   Technical Writer @ Linode
+</p> 
+
+<!-- Delete below for publication -->
+ 
+
+ <a href="https://profpan396.github.io" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
+      </a>
+      <br>
+
+ <a href="https://www.github.com/profpan396/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
+      </a>
+      <a href="https://twitter.com/profpan396" target="_blank">
+  <img src="https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
+</a>
+
+ <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
+      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
+ </a> 
+  
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+
+<!-- Delete above for publication -->
+   <div align="center">
+   <h3>***If you find this tutorial helpful, please consider giving it a :star:</h3>
+</div>
+    
+ </div>
 
 Z Shell (zsh) is a popular alternative to the default command line bash shell due to its improved features like recursive path expansion, automatic spelling correction, and plug-in and theme support. 
 
