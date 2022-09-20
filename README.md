@@ -66,7 +66,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 You should now see the following prompt asking if you'd like to change your defaut shell to zsh. Type `y` to confirm. 
 
-![Oh My Shell Configuration Prompt](oh-my-zsh-config-prompt.png)
+![Oh My Shell Configuration Prompt](images/oh-my-zsh-config-prompt.png)
 
 Take a look at your new command line and you should notice the difference right away. 
 
