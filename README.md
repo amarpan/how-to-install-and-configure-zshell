@@ -90,12 +90,15 @@ By default, the zsh theme is set to `robbyrussell`, the name of the founder of O
 For example, here are 3 uniquely different themes to choose from:
 
 1. jonathan
+
 ![Jonathan Theme Preview](images/jonathan-theme-preview.png)
 
 2. xiong-chiamiov
+
 ![Xiong Chiamiov Theme Preview](images/xiong-chiamiov-theme-preview.png)
 
 2. agnoster
+
 ![Agnoster Theme Preview](images/agnoster-theme-preview.png)
 
 
