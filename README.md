@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Change Theme in Z Shell
+# How to Change Themes in Z Shell
 <p id="author">
    <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
    <br>
