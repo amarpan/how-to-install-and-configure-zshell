@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Install and Configure Z Shell in Ubuntu
+# How to Change Theme in Z Shell
 <p id="author">
    <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
    <br>
