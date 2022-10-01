@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Change Themes in Z Shell
+# How to Install and Configure Z Shell
 <p id="author">
    <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
    <br>
