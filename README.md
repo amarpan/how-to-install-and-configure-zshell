@@ -190,7 +190,7 @@ You may wish to consult the following resources for additional information on th
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
- [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
+ [How to Write a README](https://github.com/profpan396/how-to-write-a-README)
 
  [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
 
