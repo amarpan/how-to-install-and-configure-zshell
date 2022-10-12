@@ -2,7 +2,7 @@
 
 # How to Install and Configure Z Shell
 
-**Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br>Technical Writer @ Linode
+**Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
 
 <!-- Delete below for publication -->
  
