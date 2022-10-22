@@ -1,25 +1,19 @@
 <div align="center">
 
 # How to Install and Configure Z Shell
+**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Technical Writer
 
-**Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
+<div align="center" id="socialbuttons">
 
-<!-- Delete below for publication -->
- 
-
-<div id="socialbuttons" align="center">
-
-  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
+  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
   <br>
-  [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
-  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
   ![Stars](https://img.shields.io/github/stars/profpan396/how-to-install-and-configure-zshell?style=social)
   ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-install-and-configure-zshell)
   ![Forks](https://img.shields.io/github/forks/profpan396/how-to-install-and-configure-zshell?style=social)
   <br>
-  ![Version](https://img.shields.io/badge/version-1.0-black)
+  ![Version](https://img.shields.io/badge/version-1.0-gold)
 
   ### If you find this tutorial helpful, please consider giving it a :star:
 
