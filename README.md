@@ -1,6 +1,6 @@
 <div align="center">
 
-# How to Install and Configure Z Shell
+# How to Install and Configure Z Shell in Linux
 **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Technical Writer
 
 <div align="center" id="socialbuttons">
