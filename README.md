@@ -178,9 +178,9 @@ You may wish to consult the following resources for additional information on th
 <div align="center">
    <h3>***If you found this tutorial helpful, please consider giving it a :star:</h3>
    
-   Copyright :copyright: 2021-2022 Pan You Can
+   Copyright :copyright: 2021-2022 <br> Pan You Can
 
-## More Tutorials from Professor Pan
+## More Tutorials from Amar Pan
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
