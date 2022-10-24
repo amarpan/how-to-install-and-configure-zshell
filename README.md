@@ -187,7 +187,7 @@ You may wish to consult the following resources for additional information on th
 
  [How to Write a README](https://github.com/profpan396/how-to-write-a-README)
 
- [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
+ [How to Use the Command Line Vim Text Editor](https://github.com/profpan396/how-to-use-the-vim-text-editor)
 
 </div>
 
