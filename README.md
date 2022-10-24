@@ -13,7 +13,7 @@
   ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-install-and-configure-zshell)
   ![Forks](https://img.shields.io/github/forks/profpan396/how-to-install-and-configure-zshell?style=social)
   <br>
-  ![Version](https://img.shields.io/badge/version-1.0-gold)
+  ![Version](https://img.shields.io/badge/version-1.0-black)
 
   ### If you find this tutorial helpful, please consider giving it a :star:
 
