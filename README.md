@@ -1,17 +1,17 @@
 <div align="center">
 
 # How to Install and Configure Z Shell in Linux
-**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Technical Writer
+**Written by [Amar Panjwani, M.Ed.](https://www.linkedin.com/in/amarpan/)** <br> Technical Writer
 
 <div align="center" id="socialbuttons">
 
-  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
+  [![Portfolio Badge](https://img.shields.io/badge/-amarpan.github.io-magenta?style=flat&logo=)](https://amarpan.github.io)
   <br>
-  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
-  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-install-and-configure-zshell?style=social)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-install-and-configure-zshell)
-  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-install-and-configure-zshell?style=social)
+  ![Stars](https://img.shields.io/github/stars/amarpan/how-to-install-and-configure-zshell?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=amarpan.how-to-install-and-configure-zshell)
+  ![Forks](https://img.shields.io/github/forks/amarpan/how-to-install-and-configure-zshell?style=social)
   <br>
   ![Version](https://img.shields.io/badge/version-1.0-black)
 
@@ -179,15 +179,15 @@ You may wish to consult the following resources for additional information on th
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
    
-   Copyright :copyright: 2021-2022 <br> Pan You Can
+   Copyright :copyright: 2021-2022
 
-## More Tutorials from Amar Pan
+## More Tutorials from Amar Panjwani
 
- [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
+ [How to Create a GitHub Profile](https://github.com/amarpan/how-to-create-a-github-profile)
 
- [How to Write a README](https://github.com/profpan396/how-to-write-a-README)
+ [How to Write a README](https://github.com/amarpan/how-to-write-a-README)
 
- [How to Use the Command Line Vim Text Editor](https://github.com/profpan396/how-to-use-the-vim-text-editor)
+ [How to Use the Command Line Vim Text Editor](https://github.com/amarpan/how-to-use-the-vim-text-editor)
 
 </div>
 
